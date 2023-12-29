@@ -1,4 +1,4 @@
-# Chatting-Scockets
+# Chatting-Sockets
 I have built a new project using Java Swing and Sockets.
 
 Java swing is used to Java Swing provides a set of components (like JPanel, JLabel, JButton, etc.) that can be used to create a graphical user interface.  Swing allows for extensive customization of components, such as setting text, colors, fonts, and sizes.  Swing components support event-driven programming. In this code, action listeners are used (implementing ActionListener) to handle events such as button clicks (e.g., sending messages) and mouse clicks (e.g., exiting the application).
